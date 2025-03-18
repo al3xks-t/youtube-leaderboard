@@ -42,16 +42,16 @@ def generate_markdown(video_stats):
     fastest_growing = max(video_stats, key=lambda x: x["views"] / (x["likes"] + 1))  # Basic engagement ratio
 
     # Markdown Content
-    markdown_content = "# 📊 YouTube Video Leaderboard\n\n"
-    markdown_content += "## 🏆 Top 5 Most Viewed Videos\n"
+    markdown_content = "# YouTube Video Leaderboard\n\n"
+    markdown_content += "## Top 5 Most Viewed Videos\n"
     for vid in top_views:
         markdown_content += f"- [{vid['title']}](https://youtu.be/{vid['id']}) - {vid['views']} views\n"
 
-    markdown_content += "\n## 🔥 Top 5 Most Liked Videos\n"
+    markdown_content += "\n## Top 5 Most Liked Videos\n"
     for vid in top_likes:
         markdown_content += f"- [{vid['title']}](https://youtu.be/{vid['id']}) - {vid['likes']} likes\n"
 
-    markdown_content += f"\n## 🚀 Fastest Growing Video\n"
+    markdown_content += f"\n## Fastest Growing Video\n"
     markdown_content += f"🔹 [{fastest_growing['title']}](https://youtu.be/{fastest_growing['id']}) - {fastest_growing['views']} views & {fastest_growing['likes']} likes\n"
 
     # Write to file
