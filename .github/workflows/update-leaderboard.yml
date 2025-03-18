@@ -26,9 +26,12 @@ jobs:
         run: python leaderboard.py
 
       - name: Commit and Push Changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
           git add leaderboard.md
-          git commit -m "Updated YouTube Leaderboard 🚀" || echo "No changes to commit"
-          git push
+          git commit -m "Updated YouTube Leaderboard" || echo "No changes to commit"
+          git push origin main
