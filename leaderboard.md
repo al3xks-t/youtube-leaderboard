@@ -1,8 +1,8 @@
 # YouTube Video Leaderboard
 
 ## Top 5 Most Viewed Videos
-- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 824 views
-- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 406 views
+- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 825 views
+- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 409 views
 - [business as usual | goober ball](https://youtu.be/XrRSX9f_JaE) - 242 views
 - [filler episode | goober ball](https://youtu.be/LVjDQdm-PFc) - 161 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 147 views
