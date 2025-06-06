@@ -2,10 +2,10 @@
 
 ## Top 5 Most Viewed Videos
 - [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1158 views
-- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 443 views
-- [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 183 views
+- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 444 views
+- [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 184 views
 - [filler episode | goober ball](https://youtu.be/LVjDQdm-PFc) - 165 views
-- [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 161 views
+- [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 162 views
 
 ## Top 5 Most Liked Videos
 - [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 38 likes
