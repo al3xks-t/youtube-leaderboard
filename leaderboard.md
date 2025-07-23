@@ -15,4 +15,4 @@
 - [florida, 2025 | things to remember](https://youtu.be/EGSwAs7yjAY) - 4 likes
 
 ## Fastest Growing Video
-🔹 [finals | goober ball](https://youtu.be/srDTP8KR9QE) - 58 views & 0 likes
+🔹 [finals | goober ball](https://youtu.be/srDTP8KR9QE) - 59 views & 0 likes
