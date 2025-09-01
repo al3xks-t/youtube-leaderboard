@@ -4,7 +4,7 @@
 - [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1308 views
 - [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 466 views
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 209 views
-- [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 179 views
+- [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 180 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 163 views
 
 ## Top 5 Most Liked Videos
