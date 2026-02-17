@@ -15,4 +15,4 @@
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 5 likes
 
 ## Fastest Growing Video
-🔹 [finals | goober ball](https://youtu.be/srDTP8KR9QE) - 59 views & 0 likes
+🔹 [finals | goober ball](https://youtu.be/srDTP8KR9QE) - 60 views & 0 likes
