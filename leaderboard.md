@@ -1,7 +1,7 @@
 # YouTube Video Leaderboard
 
 ## Top 5 Most Viewed Videos
-- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 492 views
+- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 493 views
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 230 views
 - [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 199 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 170 views
