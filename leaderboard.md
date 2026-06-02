@@ -2,7 +2,7 @@
 
 ## Top 5 Most Viewed Videos
 - [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 500 views
-- [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 230 views
+- [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 231 views
 - [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 199 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 171 views
 - [florida, 2025 | things to remember](https://youtu.be/EGSwAs7yjAY) - 156 views
