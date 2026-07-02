@@ -5,7 +5,7 @@
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 231 views
 - [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 201 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 171 views
-- [florida, 2025 | things to remember](https://youtu.be/EGSwAs7yjAY) - 159 views
+- [florida, 2025 | things to remember](https://youtu.be/EGSwAs7yjAY) - 160 views
 
 ## Top 5 Most Liked Videos
 - [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 30 likes
