@@ -1,7 +1,7 @@
 # YouTube Video Leaderboard
 
 ## Top 5 Most Viewed Videos
-- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1521 views
+- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1522 views
 - [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 502 views
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 232 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 171 views
