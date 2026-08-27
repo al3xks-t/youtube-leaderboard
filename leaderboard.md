@@ -1,8 +1,8 @@
 # YouTube Video Leaderboard
 
 ## Top 5 Most Viewed Videos
-- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1526 views
-- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 502 views
+- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1528 views
+- [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 503 views
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 232 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 171 views
 - [florida, 2025 | things to remember](https://youtu.be/EGSwAs7yjAY) - 160 views
@@ -15,4 +15,4 @@
 - [florida, 2025 | things to remember](https://youtu.be/EGSwAs7yjAY) - 4 likes
 
 ## Fastest Growing Video
-🔹 [finals | goober ball](https://youtu.be/srDTP8KR9QE) - 61 views & 0 likes
+🔹 [finals | goober ball](https://youtu.be/srDTP8KR9QE) - 62 views & 0 likes
