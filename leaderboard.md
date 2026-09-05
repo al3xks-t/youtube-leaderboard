@@ -1,7 +1,7 @@
 # YouTube Video Leaderboard
 
 ## Top 5 Most Viewed Videos
-- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1533 views
+- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1534 views
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 234 views
 - [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 202 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 171 views
