@@ -1,14 +1,14 @@
 # YouTube Video Leaderboard
 
 ## Top 5 Most Viewed Videos
-- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1540 views
+- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 1541 views
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 234 views
 - [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 202 views
 - [state tournament | goober ball](https://youtu.be/Ci5MFGdfzOE) - 171 views
 - [filler episode | goober ball](https://youtu.be/LVjDQdm-PFc) - 166 views
 
 ## Top 5 Most Liked Videos
-- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 49 likes
+- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 50 likes
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 19 likes
 - [labor day weekend | things to remember](https://youtu.be/I6uEidcqydk) - 9 likes
 - [atlanta trip | things to remember](https://youtu.be/aROtkPs8i34) - 6 likes
