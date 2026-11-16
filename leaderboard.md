@@ -8,7 +8,7 @@
 - [florida, 2025 | things to remember](https://youtu.be/EGSwAs7yjAY) - 160 views
 
 ## Top 5 Most Liked Videos
-- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 51 likes
+- [my top 100 favorite songs of all time](https://youtu.be/zYnjnriU374) - 50 likes
 - [turning my house into a ramen shop | things to remember](https://youtu.be/RBDZBPQs_fI) - 30 likes
 - [graduation | things to remember](https://youtu.be/l2r22Se8iw4) - 19 likes
 - [labor day weekend | things to remember](https://youtu.be/I6uEidcqydk) - 9 likes
